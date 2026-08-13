@@ -12,16 +12,15 @@ This desk in strata orbital is in charge of docking all delivery vehicles to a s
   
   ## THE CONTROL PANEL FOR STRATA ORBITAL
   (Button(Deactivate) means there is a button titled deactivate there)
-  '''
-  
-                                              THE CAPSULE
-                                                   /\
-                                                  |  | <------- RCS: view below (later it is the menu below the "RCS:")
-                              FUEL (42%) -------> |  |
-                                         [][][][]-    -[][][][]
-                                                  |  |  <- ANGLE CONTROLS (later the angle controller menu)
-MAIN THRUSTER BACK [INACTIVE] Button(Activate) ->  \/   <- MAIN THRUSTER FORWARD [ACTIVE] Button(Deactivate)
-                                                   ||
+   
+                                                  THE CAPSULE
+                                                       /\
+                                                      |  | <------- RCS: view below (later it is the menu below the "RCS:")
+                                  FUEL (42%) -------> |  |
+                                             [][][][]-    -[][][][]
+                                                      |  |  <- ANGLE CONTROLS (later the angle controller menu)
+    MAIN THRUSTER BACK [INACTIVE] Button(Activate) ->  \/   <- MAIN THRUSTER FORWARD [ACTIVE] Button(Deactivate)
+                                                       ||
   
       /=========RCS CONTROLER==========\
      | LEFT [ACTIVE] Button(Deactivate) |
@@ -35,4 +34,3 @@ MAIN THRUSTER BACK [INACTIVE] Button(Activate) ->  \/   <- MAIN THRUSTER FORWARD
      | PITCH [ACTIVE] Button(Deactivate)|
      | YAW [ACTIVE] Button(Deactivate)  |
      \==================================/
-'''
