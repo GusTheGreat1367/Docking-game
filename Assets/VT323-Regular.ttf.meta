@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4ff2b39d31b80435c9492ed874b060f9
+guid: 0b7760a279d7b43c691b871018e82017
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Space Mono
+  - VT323
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
