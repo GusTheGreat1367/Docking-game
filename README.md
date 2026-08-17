@@ -22,14 +22,14 @@ This desk in strata orbital is in charge of docking all delivery vehicles to a s
     MAIN THRUSTER BACK [INACTIVE] Button(Activate) ->  \/   <- MAIN THRUSTER FORWARD [ACTIVE] Button(Deactivate)
                                                        ||
   
-      /=========RCS CONTROLER==========\
+     /==========RCS CONTROLLER==========\
      | LEFT [ACTIVE] Button(Deactivate) |
      | RIGHT [ACTIVE] Button(Deactivate)|
      | UP [ACTIVE] Button(Deactivate)   |
      | DOWN [ACTIVE] Button(Deactivate) |
      \==================================/  
   
-     /========ANGLE CONTROLLER=========\
+     /=========ANGLE CONTROLLER=========\
      | ROLL[ACTIVE] Button(Deactivate)  |
      | PITCH [ACTIVE] Button(Deactivate)|
      | YAW [ACTIVE] Button(Deactivate)  |
